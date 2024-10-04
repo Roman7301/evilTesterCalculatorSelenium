@@ -1,6 +1,6 @@
 # evilTesterCalculatorSelenium
 
-imple Selenium test suite of the calculator basic algorithmic functionality
+Simple Selenium test suite of the calculator basic algorithmic functionality
 
 #Tech Requirements:
 
